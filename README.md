@@ -3,4 +3,5 @@ Come to our discord : Discord: https://discord.gg/HCaADtSrYt
 Tebex Store : https://sk-scripts-webstore.tebex.io/
 
 Preview : 
-![Captura de ecrã 2024-03-20 014929](https://github.com/sakuraa0/sk-loading/assets/69822832/c3bd3a19-067f-424e-86f7-d0d0e7cd1869)
+
+![Captura de ecrã 2024-03-20 014929](https://github.com/sakuraa0/sk-loading/assets/69822832/b855d395-c48d-4f46-a26c-706e7ea28809)
